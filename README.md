@@ -5,4 +5,4 @@ open source discord bot can be used as base for people trying to learn discordjs
 * grab avatar
 * talking ben
 * status always set to 'streaming' with any twitch connection
-* idk what im doing w this anymore
+* idk what im doing w this anymore maybe i come back to it
